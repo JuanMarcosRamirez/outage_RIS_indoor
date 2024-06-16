@@ -1,7 +1,5 @@
 # The Rumble in the Millimeter Wave Jungle: Obstructions Vs RIS
 
-Simulation codes for estimating the probability of outage with randomly located objects and reconfigurable intelligent surfaces
-
 [Juan Marcos Ramirez](https://juanmarcosramirez.github.io/), [Vincenzo Mancuso](https://networks.imdea.org/es/team/imdea-networks-team/people/vincenzo-mancuso/), and [Marco Ajmone Marsan](https://networks.imdea.org/es/team/imdea-networks-team/people/marco-ajmone-marsan/)
 
  22st Mediterranean Communication and Computer Networking Conference (MedComNet 2024)
