@@ -1,9 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Sat Sep 23 09:29:37 2023
-
-Outage of mmWave Links with Randomly Located Obstructions and Reconfigurable Intelligent Surfaces
+The Rumble in the Millimeter Wave Jungle: Obstructions Vs RIS
 
 @author: Juan Marcos Ramirez Rondon
 """
