@@ -16,7 +16,7 @@ The performance evaluation of RIS-assisted wireless communication systems in the
 
 #### Figure 2
 
-* To generate the curves in Figure 2(b), run `Poutage_vs_gamma.ipynb`. Adjust the operating frequency and the number of RIS elements to obtain different curves.
+* To generate the curves in Figure 2(b), run `Poutage_vs_gamma.ipynb` file in the indoor2D directory. Adjust the operating frequency and the number of RIS elements to obtain different curves.
 
 
 ## Platform
