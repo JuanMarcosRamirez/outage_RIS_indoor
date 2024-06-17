@@ -26,6 +26,8 @@ The performance evaluation of RIS-assisted wireless communication systems in the
 
 * To generate the curves in Figure 4(a), run `Without_Beamsteering.ipynb` file in the indoor2D directory. Adjust the operating frequency and the number of RIS elements to obtain different curves.
 
+### 3D Indoor Case
+
 #### Figure 5
 
 * To generate the curves in Figure 5, run `Poutage_vs_gamma_3D.ipynb` file in the indoor3D directory. Adjust the operating frequency and the number of RIS elements to obtain different curves.
