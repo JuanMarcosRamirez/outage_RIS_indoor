@@ -20,6 +20,8 @@ The performance evaluation of RIS-assisted wireless communication systems in the
 
 * To generate the curves in Figure 2(c), run `Poutage_vs_lambda_ppp.ipynb` file in the indoor2D directory. Adjust the operating frequency and the number of RIS elements to obtain different curves.
 
+* To generate the curves in Figure 2(d), run `Poutage_vs_radius.ipynb` file in the indoor2D directory. Adjust the operating frequency and the number of RIS elements to obtain different curves.
+
 
 ## Platform
 
