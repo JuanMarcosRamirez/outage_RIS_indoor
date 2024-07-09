@@ -10,16 +10,15 @@ Reconfigurable intelligent surfaces (RISs) have emerged as a key technology for 
 
 ## Bibtex
 
-``
+```
 @inproceedings{ramirez2024rumble,
   author={Ramírez, Juan Marcos and Mancuso, Vincenzo and Marsan, Marco Ajmone},
   booktitle={2024 22nd Mediterranean Communication and Computer Networking Conference (MedComNet)}, 
   title={The Rumble in the Millimeter Wave Jungle: Obstructions Vs Ris}, 
   year={2024},
   pages={1-10},
-  doi={10.1109/MedComNet62012.2024.10578262}
-  }
-``
+  doi={10.1109/MedComNet62012.2024.10578262}}
+```
 
 ![Communication System](https://github.com/JuanMarcosRamirez/outage_RIS_indoor/blob/main/images/RIS_assisted_system.jpg?raw=true "Demo image")
 
